@@ -6,7 +6,7 @@
 #include <time.h>
 
 #define N 20
-
+//This is modified from github
 typedef struct{
 
 	int max;
@@ -14,5 +14,5 @@ typedef struct{
 	char rname[20];
 
 }rock; 
-
+//this is for function prototypes
 void send_data(rock); 
